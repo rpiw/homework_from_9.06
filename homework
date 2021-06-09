@@ -1,0 +1,5 @@
+command     plugin
+validate    maven-enforcer-plugin
+verify      maven-compiler-plugin
+install     maven-install-plugin
+deploy      maven-deploy-plugin
